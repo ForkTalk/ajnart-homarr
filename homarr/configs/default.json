@@ -1,0 +1,12 @@
+{
+  "name": "default",
+  "services": [],
+  "settings": {
+    "searchUrl": "https://www.google.com/search?q="
+  },
+  "modules": {
+    "Search Bar": {
+      "enabled": true
+    }
+  }
+}
